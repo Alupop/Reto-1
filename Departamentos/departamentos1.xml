@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Departamentos SYSTEM "departamentos1.dtd">
+<Departamentos>
+    <Departamento>
+        <Codigo>01</Codigo>
+        <Nombre>COMERCIAL</Nombre>
+    </Departamento>
+    <Departamento>
+        <Codigo>02</Codigo>
+        <Nombre>COMPTABILITAT</Nombre>
+    </Departamento>
+    <Departamento>
+        <Codigo>03</Codigo>
+        <Nombre>INFORMÀTICA</Nombre>
+    </Departamento>
+    <Departamento>
+        <Codigo>04</Codigo>
+        <Nombre>PERSONAL</Nombre>
+    </Departamento>
+</Departamentos>
